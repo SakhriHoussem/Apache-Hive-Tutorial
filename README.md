@@ -39,7 +39,7 @@ hiking Table Structure :
 
 example : 
 ```shell
-# create table with 2 family columns
+# create TABLE
 CREATE TABLE IF NOT EXISTS hiking (
 	id INT,
 	name STRING,
