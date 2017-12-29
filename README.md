@@ -80,5 +80,5 @@ The maximum / average distance by region :
 SELECT region ,max(distance) max FROM hiking GROUP BY region;
 ```
 ```sql
-	SELECT region ,avg(distance) moy FROM hiking GROUP BY region;
+SELECT region ,avg(distance) moy FROM hiking GROUP BY region;
 ```
