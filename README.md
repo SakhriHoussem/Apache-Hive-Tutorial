@@ -59,7 +59,7 @@ LOAD DATA [LOCAL] INPATH 'filepath' [OVERWRITE] INTO TABLE tablename
 ```
 example :
 ```shell
-LOAD DATA LOCAL INPATH '<Path repository>/input/hiking.txt' #LOAD DATA FROM File
+LOAD DATA LOCAL INPATH '<repository Path>/input/hiking.txt' #LOAD DATA FROM File
 OVERWRITE INTO TABLE hiking;
 ```
 
