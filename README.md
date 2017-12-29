@@ -77,8 +77,8 @@ SELECT * FROM hiking WHERE suiteHiking IS NOT NULL;
 
 The maximum / average distance by region : 
 ```sql
-SELECT region ,max(distance) max FROM hiking GROUP BY region;
+SELECT region, max(distance) max FROM hiking GROUP BY region;
 ```
 ```sql
-SELECT region ,avg(distance) moy FROM hiking GROUP BY region;
+SELECT region, avg(distance) moy FROM hiking GROUP BY region;
 ```
