@@ -1,0 +1,9 @@
+1	MontsduDjurdjura	TiziOuzou	35	1000	NULL
+2	CircuitdeMisserghin	Oran	25	514	NULL
+3	MontagnedeMurdjadju	Oran	31	1100	NULL
+4	Canastel	Oran	18	890	3
+5	YamaGouraya	Bejaia	19	900	NULL
+6	SidiMakhlouf	Blida	8	165	8
+7	Tikjda	TiziOuzou	10	1900	NULL
+8	Feroukha	Blida	14.18	454	NULL
+9	ChréaAzzazga	TiziOuzou	6.23	1548	1
