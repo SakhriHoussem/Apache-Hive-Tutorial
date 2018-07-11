@@ -1,4 +1,4 @@
-# Hive in Practice
+# Apache Hive Tutorial
 
 ## Learn How Hive Work in Simple Example
 
